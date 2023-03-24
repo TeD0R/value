@@ -1,0 +1,288 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "show_collection_full_width": false,
+        "color_scheme": "background-1",
+        "hero_align_content": "left",
+        "padding_top": 28,
+        "padding_bottom": 32
+      }
+    },
+    "cde2e82e-9ee6-4ecc-91f6-a4cf4a607b02": {
+      "type": "breadcrumb",
+      "settings": {
+        "alignment_breadcrumb": "center",
+        "padding_top": 24,
+        "padding_bottom": 18
+      }
+    },
+    "90fd90b2-d153-4482-8a4c-ebce3ba15915": {
+      "type": "announcement-bar",
+      "blocks": {
+        "3bfe4bfe-04f3-4474-b862-cf791a4b754f": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>FREE DELIVERY OVER $100<\/p>",
+            "content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "3bfe4bfe-04f3-4474-b862-cf791a4b754f"
+      ],
+      "settings": {
+        "bg_colors": "#0038ff",
+        "text_colors": "#ffffff",
+        "full_width": false,
+        "container": false,
+        "mod_class": ""
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "show_product_description": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "enable_recently_products": false
+      }
+    },
+    "8ff5f0a8-d3a4-4b22-91fb-691d80607732": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17016615043347__8ff5f0a8-d3a4-4b22-91fb-691d80607732-166962352788ee3923-0": {
+          "type": "column",
+          "settings": {
+            "image_position": "top",
+            "title": "",
+            "title_size": "h4",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 48,
+            "padding_bottom": 48,
+            "image_spacing": 0
+          }
+        },
+        "template--17016615043347__8ff5f0a8-d3a4-4b22-91fb-691d80607732-166962352788ee3923-1": {
+          "type": "column",
+          "settings": {
+            "image_position": "top",
+            "title": "",
+            "title_size": "h4",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 48,
+            "padding_bottom": 48,
+            "image_spacing": 0
+          }
+        },
+        "template--17016615043347__8ff5f0a8-d3a4-4b22-91fb-691d80607732-166962352788ee3923-2": {
+          "type": "column",
+          "settings": {
+            "image_position": "top",
+            "title": "",
+            "title_size": "h4",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 48,
+            "padding_bottom": 48,
+            "image_spacing": 0
+          }
+        },
+        "cb983ea7-29d5-403f-886d-e1309d1102bc": {
+          "type": "column",
+          "settings": {
+            "image_position": "top",
+            "title": "",
+            "title_size": "h4",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 48,
+            "padding_bottom": 48,
+            "image_spacing": 0
+          }
+        },
+        "5cf2648e-9211-4fcf-a373-087e301e2717": {
+          "type": "column",
+          "settings": {
+            "image_position": "top",
+            "title": "",
+            "title_size": "h4",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 48,
+            "padding_bottom": 48,
+            "image_spacing": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--17016615043347__8ff5f0a8-d3a4-4b22-91fb-691d80607732-166962352788ee3923-0",
+        "template--17016615043347__8ff5f0a8-d3a4-4b22-91fb-691d80607732-166962352788ee3923-1",
+        "template--17016615043347__8ff5f0a8-d3a4-4b22-91fb-691d80607732-166962352788ee3923-2",
+        "cb983ea7-29d5-403f-886d-e1309d1102bc",
+        "5cf2648e-9211-4fcf-a373-087e301e2717"
+      ],
+      "settings": {
+        "title": "",
+        "sub-title": "",
+        "mod_class": "clients-list",
+        "heading_size": "h4",
+        "layout": "grid--gapless",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "row_alignment": "none",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_tablet": "2",
+        "swipe_on_tablet": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "border_top_thickness": 0,
+        "border_right_thickness": 0,
+        "border_bottom_thickness": 0,
+        "border_left_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "bf12503f-9a49-4184-8fff-a48048cedcd4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17780904198410__bf12503f-9a49-4184-8fff-a48048cedcd4-1679657075fce1d317-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cannabis is our truepassion!",
+            "heading_size": "h2"
+          }
+        },
+        "template--17780904198410__bf12503f-9a49-4184-8fff-a48048cedcd4-1679657075fce1d317-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We know and believe that the cannabis plant has an abundance of benefits, and benefits that work for people in all walks of life. We enjoy bringing those people together and sharing those common benefits to enjoy the happiest and healthiest life.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904198410__bf12503f-9a49-4184-8fff-a48048cedcd4-1679657075fce1d317-0",
+        "template--17780904198410__bf12503f-9a49-4184-8fff-a48048cedcd4-1679657075fce1d317-1"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "image": "shopify:\/\/shop_images\/FLOWER.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "border_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "039c66ff-2167-4bcf-830e-0f40a8e05ad4": {
+      "type": "image-with-text",
+      "blocks": {
+        "21b51345-2b4f-45ff-8082-c309fc978eab": {
+          "type": "heading",
+          "settings": {
+            "heading": "We belive and use our products everyday",
+            "heading_size": "h2"
+          }
+        },
+        "26e6e8be-432c-46f5-b927-489b47c245a1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our mission? To deliver the crème de la crème of lab-tested minor cannabinoids to the streets, while setting the gold standard for cartridge purity. Our whole team gets high AF every day with our products and we love it .<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "21b51345-2b4f-45ff-8082-c309fc978eab",
+        "26e6e8be-432c-46f5-b927-489b47c245a1"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "image": "shopify:\/\/shop_images\/b3ac4451ab2a921c74c76f392b77a272.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "border_thickness": 0,
+        "border_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "cde2e82e-9ee6-4ecc-91f6-a4cf4a607b02",
+    "90fd90b2-d153-4482-8a4c-ebce3ba15915",
+    "product-grid",
+    "8ff5f0a8-d3a4-4b22-91fb-691d80607732",
+    "bf12503f-9a49-4184-8fff-a48048cedcd4",
+    "039c66ff-2167-4bcf-830e-0f40a8e05ad4"
+  ]
+}

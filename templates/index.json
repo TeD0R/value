@@ -1,0 +1,774 @@
+{
+  "sections": {
+    "6bf2f301-baea-471d-89ed-a960f0b5b06e": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17780904231178__6bf2f301-baea-471d-89ed-a960f0b5b06e-16796880005faba630-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/08d99551d93893965c7c14f556ca0df1.jpg",
+            "heading": "CCELL KERA X JONKA",
+            "heading_size": "h2",
+            "subheading": "Made with highly stable borosilicate glass and zirconia ceramic, Kera guarantees pure flavors while eliminating any corrosion and chemical byproducts during the heating process.",
+            "button_label": "view product",
+            "link": "shopify:\/\/products\/95-hhc-ccell-cartridge",
+            "link_style": "solid",
+            "box_align": "middle-left",
+            "box_width": 60,
+            "button_label2": "",
+            "link2": "",
+            "link_style2": "solid",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 60,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "d1d42b9c-1868-42e9-9764-0865467d76d3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jeff-w--0PqPCHxIvI-unsplash.jpg",
+            "heading": "CCELL KERA X JONKA",
+            "heading_size": "h2",
+            "subheading": "Made with highly stable borosilicate glass and zirconia ceramic, Kera guarantees pure flavors while eliminating any corrosion and chemical byproducts during the heating process.",
+            "button_label": "view product",
+            "link": "shopify:\/\/products\/95-hhc-ccell-cartridge",
+            "link_style": "solid",
+            "box_align": "middle-left",
+            "box_width": 60,
+            "button_label2": "",
+            "link2": "",
+            "link_style2": "solid",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 60,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904231178__6bf2f301-baea-471d-89ed-a960f0b5b06e-16796880005faba630-0",
+        "d1d42b9c-1868-42e9-9764-0865467d76d3"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "169",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 9,
+        "show_text_below": true,
+        "accessibility_info": "CCELL KERA image and other jonka hhc products",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "border_top_thickness": 0,
+        "border_right_thickness": 0,
+        "border_bottom_thickness": 0,
+        "border_left_thickness": 0,
+        "border_opacity": 0,
+        "addition_class": ""
+      }
+    },
+    "bcb99ba7-21ab-44c5-b801-f052779acea3": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "402af33f-cdf4-4156-9ff1-653040fa8bac": {
+          "type": "heading",
+          "settings": {
+            "heading": "CCELL KERA X JONKA",
+            "heading_size": "h3"
+          }
+        },
+        "e4191643-cbbc-485a-9c5a-3581b32f0dba": {
+          "type": "text",
+          "settings": {
+            "text": "Made with highly stable borosilicate glass and zirconia ceramic, Kera guarantees pure flavors while eliminating any corrosion and chemical byproducts during the heating process.",
+            "text_style": "body"
+          }
+        },
+        "33f366a1-e99e-4532-a630-ac7e99af6e04": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "VIEW PRODUCT",
+            "button_link_1": "shopify:\/\/products\/95-hhc-ccell-cartridge",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "402af33f-cdf4-4156-9ff1-653040fa8bac",
+        "e4191643-cbbc-485a-9c5a-3581b32f0dba",
+        "33f366a1-e99e-4532-a630-ac7e99af6e04"
+      ],
+      "settings": {
+        "mod_class": "",
+        "image": "shopify:\/\/shop_images\/08d99551d93893965c7c14f556ca0df1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "border_top_thickness": 0,
+        "border_right_thickness": 0,
+        "border_bottom_thickness": 0,
+        "border_left_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "a550ee7d-f5e6-4f92-b1ba-36ee3114f357": {
+      "type": "image-with-text-grid",
+      "blocks": {
+        "template--17780904231178__a550ee7d-f5e6-4f92-b1ba-36ee3114f357-1679692860ebe28d33-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/matthew-brodeur-qcCPIhhdgTw-unsplash.jpg",
+            "title": "",
+            "link_label": "PURE HHC",
+            "link": "shopify:\/\/products\/hhc-дестилат",
+            "link_style": "solid",
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "template--17780904231178__a550ee7d-f5e6-4f92-b1ba-36ee3114f357-1679692860ebe28d33-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/supliful-supplements-on-demand-WrYNjfwD-Z0-unsplash.jpg",
+            "title": "",
+            "link_label": "GUMMIES",
+            "link": "shopify:\/\/products\/hhc-желирани-бонбони",
+            "link_style": "solid",
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "9451b52e-bd14-49d1-b684-36a0946e2808": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/08d99551d93893965c7c14f556ca0df1.jpg",
+            "title": "",
+            "link_label": "510 CARTRIDGES",
+            "link": "shopify:\/\/collections\/510-cartridge",
+            "link_style": "solid",
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904231178__a550ee7d-f5e6-4f92-b1ba-36ee3114f357-1679692860ebe28d33-0",
+        "template--17780904231178__a550ee7d-f5e6-4f92-b1ba-36ee3114f357-1679692860ebe28d33-1",
+        "9451b52e-bd14-49d1-b684-36a0946e2808"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "layout": "grid--gapless",
+        "item_ratio": "169",
+        "columns_desktop": 3,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "border_top_thickness": 0,
+        "border_right_thickness": 0,
+        "border_bottom_thickness": 0,
+        "border_left_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "641876be-d52f-461f-a2c4-bd49c69590d6": {
+      "type": "rich-text",
+      "blocks": {
+        "bf241eb6-9b4e-410f-bd10-35f2aed29ceb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>We use only the highest quality, lab tested ingredients sourced from reputable vendors.<\/h3>",
+            "heading_size": "h2"
+          }
+        },
+        "4588dd12-fd9f-4ef9-a6ee-d080d61d7e6a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our vape cartridges contain some of the most potent HHC distillate <a href=\"\/blogs\/news\/exploring-hhc-9r-and-hhc-9s-isomers-a-dive-into-the-world-of-jonka\" target=\"_blank\" title=\"Exploring HHC 9R and HHC 9S Isomers: A Dive into the World of Jonka\">(74% HHC-9R)(read more)<\/a>, and are flavored using only live resin terpenes. <a href=\"\/blogs\/news\/what-are-terpenes-everything-you-need-to-know\" target=\"_blank\" title=\"WHAT ARE TERPENES? EVERYTHING YOU NEED TO KNOW\">(why are live terpenes important blog)<\/a><\/p>"
+          }
+        },
+        "ab39b031-3976-4a52-be62-5a14b935076f": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "view all products",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "bf241eb6-9b4e-410f-bd10-35f2aed29ceb",
+        "4588dd12-fd9f-4ef9-a6ee-d080d61d7e6a",
+        "ab39b031-3976-4a52-be62-5a14b935076f"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "6f4aabaa-d666-446a-9841-aa7b42630d3e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17780904231178__6f4aabaa-d666-446a-9841-aa7b42630d3e-1679666066dadcaedc-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cannabis.png",
+            "image_position": "top",
+            "title": "lab testing.",
+            "title_size": "h4",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "<p>All of our products go through third party lab testing to ensure the highest of quality product.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 32,
+            "padding_bottom": 32,
+            "image_spacing": 38
+          }
+        },
+        "1290a85f-6293-4d9b-887a-c28b5f9d9872": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nasal-spray.png",
+            "image_position": "top",
+            "title": "premium quality",
+            "title_size": "h4",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "<p>My unmatched perspicacity, coupled with sheer indefatigability, makes me a feared opponent in any realm of human endeavor<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 32,
+            "padding_bottom": 32,
+            "image_spacing": 38
+          }
+        },
+        "9025094b-7dae-4cef-9c01-083b4bdc0f87": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balance.png",
+            "image_position": "top",
+            "title": "client focus.",
+            "title_size": "h4",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "<p>We strive to build relationships and have clear communication with all of our clients - big or small.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 32,
+            "padding_bottom": 32,
+            "image_spacing": 38
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904231178__6f4aabaa-d666-446a-9841-aa7b42630d3e-1679666066dadcaedc-0",
+        "1290a85f-6293-4d9b-887a-c28b5f9d9872",
+        "9025094b-7dae-4cef-9c01-083b4bdc0f87"
+      ],
+      "settings": {
+        "title": "",
+        "sub-title": "",
+        "mod_class": "",
+        "heading_size": "h2",
+        "layout": "grid--gapless",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "row_alignment": "top",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_tablet": "3",
+        "swipe_on_tablet": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "border_top_thickness": 0,
+        "border_right_thickness": 0,
+        "border_bottom_thickness": 0,
+        "border_left_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "ffe461c9-ae49-4adb-86f4-fae3a7ac755b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17780904231178__ffe461c9-ae49-4adb-86f4-fae3a7ac755b-16796632995181bdd3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "HHCBD 420 BUNDLES",
+            "heading_size": "h1"
+          }
+        },
+        "template--17780904231178__ffe461c9-ae49-4adb-86f4-fae3a7ac755b-16796632995181bdd3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover our high-quality PCKT vape cartridges featuring 510 and magnetic threading, pure ceramic coil, and a potent blend of legal cannabinoids for a superior experience. <a href=\"\/blogs\/news\/what-are-terpenes-everything-you-need-to-know\" target=\"_blank\" title=\"WHAT ARE TERPENES? EVERYTHING YOU NEED TO KNOW\">(see why)<\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17780904231178__ffe461c9-ae49-4adb-86f4-fae3a7ac755b-16796632995181bdd3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/collections\/510-cartridge"
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904231178__ffe461c9-ae49-4adb-86f4-fae3a7ac755b-16796632995181bdd3-0",
+        "template--17780904231178__ffe461c9-ae49-4adb-86f4-fae3a7ac755b-16796632995181bdd3-1",
+        "template--17780904231178__ffe461c9-ae49-4adb-86f4-fae3a7ac755b-16796632995181bdd3-2"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "image": "shopify:\/\/shop_images\/elsa-olofsson-UplOLX1Xpsc-unsplash.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 64,
+        "padding_bottom": 16,
+        "border_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "0e4f289f-207d-45ad-8a63-d1d4abc8be37": {
+      "type": "image-with-text",
+      "blocks": {
+        "ba6b3179-a577-4b9d-90c7-257a8baa4f68": {
+          "type": "heading",
+          "settings": {
+            "heading": "EDIBLES",
+            "heading_size": "h1"
+          }
+        },
+        "0e5db0ce-f83b-4ca0-80fb-88c5b8d8da90": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our HHC gummies are crafted with premium-grade ingredients, resulting in some of the most outstanding infused HHC gummies available on the market. Choose Jonka for the ultimate HHC experience and elevate your daily routine to new heights.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "394ad430-071b-43fe-a63c-11f44ce92f36": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/products\/hhc-желирани-бонбони"
+          }
+        }
+      },
+      "block_order": [
+        "ba6b3179-a577-4b9d-90c7-257a8baa4f68",
+        "0e5db0ce-f83b-4ca0-80fb-88c5b8d8da90",
+        "394ad430-071b-43fe-a63c-11f44ce92f36"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "image": "shopify:\/\/shop_images\/supliful-supplements-on-demand-ZL5PSYBfPwk-unsplash.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 100,
+        "border_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "43e5946c-9ce8-4f20-9633-46f7701e8bc8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17780904231178__43e5946c-9ce8-4f20-9633-46f7701e8bc8-1679687497d726e274-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<h3>However you decide to benefit from our menu, you can believe in the quality of our products and the integrity of our company.<\/h3>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17780904231178__43e5946c-9ce8-4f20-9633-46f7701e8bc8-1679687497d726e274-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>However you decide to benefit from our menu, you can believe in the quality of our products and the integrity of our company.<\/strong><\/p>"
+          }
+        },
+        "template--17780904231178__43e5946c-9ce8-4f20-9633-46f7701e8bc8-1679687497d726e274-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904231178__43e5946c-9ce8-4f20-9633-46f7701e8bc8-1679687497d726e274-0",
+        "template--17780904231178__43e5946c-9ce8-4f20-9633-46f7701e8bc8-1679687497d726e274-1",
+        "template--17780904231178__43e5946c-9ce8-4f20-9633-46f7701e8bc8-1679687497d726e274-2"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "74af56ee-0067-4582-bd49-4a0473b29197": {
+      "type": "image-with-text",
+      "blocks": {
+        "ebb361ad-fac9-4cd3-907e-1a28f164edc8": {
+          "type": "heading",
+          "settings": {
+            "heading": "HHC CARTRIDGES",
+            "heading_size": "h1"
+          }
+        },
+        "5d45d4f3-8502-4aae-b3d8-9b305a0eb53b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our vape cartridges contain some of the most potent HHC distillate (74% HHC-9R),read more *blog*, and are flavored using only live resin terpenes. <a href=\"\/blogs\/news\/what-are-terpenes-everything-you-need-to-know\" target=\"_blank\" title=\"WHAT ARE TERPENES? EVERYTHING YOU NEED TO KNOW\">(see why)<\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "320584cc-5409-4056-ae2b-60e6e7bce6d5": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/collections\/510-cartridge"
+          }
+        }
+      },
+      "block_order": [
+        "ebb361ad-fac9-4cd3-907e-1a28f164edc8",
+        "5d45d4f3-8502-4aae-b3d8-9b305a0eb53b",
+        "320584cc-5409-4056-ae2b-60e6e7bce6d5"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "image": "shopify:\/\/shop_images\/elsa-olofsson-UplOLX1Xpsc-unsplash.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 16,
+        "border_thickness": 1,
+        "border_opacity": 0
+      }
+    },
+    "f44d597a-fb9b-49cc-a236-99ffebf3b43d": {
+      "type": "image-with-text",
+      "blocks": {
+        "a3b1b8fc-61ab-48fb-8607-faa6bbbfe0b8": {
+          "type": "heading",
+          "settings": {
+            "heading": "EDIBLES",
+            "heading_size": "h1"
+          }
+        },
+        "7e1d1ab6-0564-4705-9a69-782574a0988c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our HHC gummies are crafted with premium-grade ingredients, resulting in some of the most outstanding infused HHC gummies available on the market. Choose Jonka for the ultimate HHC experience and elevate your daily routine to new heights.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "e1c451e1-8276-498f-9642-d4d58d5a230f": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/products\/hhc-желирани-бонбони"
+          }
+        }
+      },
+      "block_order": [
+        "a3b1b8fc-61ab-48fb-8607-faa6bbbfe0b8",
+        "7e1d1ab6-0564-4705-9a69-782574a0988c",
+        "e1c451e1-8276-498f-9642-d4d58d5a230f"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "image": "shopify:\/\/shop_images\/supliful-supplements-on-demand-ZL5PSYBfPwk-unsplash.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 100,
+        "border_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "618ad075-fcca-49dc-8deb-3956a35563d4": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "body"
+          }
+        },
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-3": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-5": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-7": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-0",
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-1",
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-2",
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-3",
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-4",
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-5",
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-6",
+        "template--17780904231178__618ad075-fcca-49dc-8deb-3956a35563d4-16792314071e95b3ea-7"
+      ],
+      "settings": {
+        "product": "hhc-дестилат",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "11b7aee2-c78b-4c07-bb9f-92ca120b5974": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Our recent writings",
+        "heading_size": "h3",
+        "title_style": "01",
+        "description_style": "body",
+        "description": "",
+        "blog": "news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "color_scheme": "background-2",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "view_all_content": "View all",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "border_top_thickness": 0,
+        "border_right_thickness": 0,
+        "border_bottom_thickness": 0,
+        "border_left_thickness": 0,
+        "border_opacity": 0
+      }
+    },
+    "de99a705-2695-4857-953e-c4d63681937b": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "HHC Products",
+        "heading_size": "h3",
+        "title_style": "02",
+        "description_style": "uppercase",
+        "description": "<p>Jonka has teamed up with some of the most distinguished cannabis industry operators to deliver the highest tested HHC on the market, boasting a remarkable 74% 9R HHC.<\/p>",
+        "show_description": false,
+        "collection": "hhc-продукти-1",
+        "show_card_collection": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "slider_visual": "nav",
+        "color_scheme": "background-2",
+        "desktop_layout": "left",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "show_product_description": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "border_top_thickness": 1,
+        "border_right_thickness": 0,
+        "border_bottom_thickness": 1,
+        "border_left_thickness": 0,
+        "border_opacity": 100,
+        "mod_class": ""
+      }
+    },
+    "48fe64df-3a0a-450c-a20e-3c82e9a0c149": {
+      "type": "announcement-bar",
+      "disabled": true,
+      "blocks": {
+        "9553beb8-d552-4338-858d-85d72057e1d9": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/discord.gg\/MqHDKKay\" target=\"_blank\" title=\"https:\/\/discord.gg\/MqHDKKay\">Join our discord server<\/a><\/p>",
+            "content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "9553beb8-d552-4338-858d-85d72057e1d9"
+      ],
+      "custom_css": [
+        ".announcement-bar p a {color: white;}"
+      ],
+      "settings": {
+        "bg_colors": "#0038ff",
+        "text_colors": "#ffffff",
+        "full_width": true,
+        "container": false,
+        "mod_class": "discord-link"
+      }
+    },
+    "8191ab7b-5676-4e48-80af-b76cbc1f21bc": {
+      "type": "newsletter",
+      "blocks": {
+        "template--17780904231178__8191ab7b-5676-4e48-80af-b76cbc1f21bc-16796876047c68db84-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>ENTER YOUR EMAIL FOR 15% OFF YOUR FIRST PURCHASE<\/h3>"
+          }
+        },
+        "template--17780904231178__8191ab7b-5676-4e48-80af-b76cbc1f21bc-16796876047c68db84-2": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--17780904231178__8191ab7b-5676-4e48-80af-b76cbc1f21bc-16796876047c68db84-1",
+        "template--17780904231178__8191ab7b-5676-4e48-80af-b76cbc1f21bc-16796876047c68db84-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "6bf2f301-baea-471d-89ed-a960f0b5b06e",
+    "bcb99ba7-21ab-44c5-b801-f052779acea3",
+    "a550ee7d-f5e6-4f92-b1ba-36ee3114f357",
+    "641876be-d52f-461f-a2c4-bd49c69590d6",
+    "6f4aabaa-d666-446a-9841-aa7b42630d3e",
+    "ffe461c9-ae49-4adb-86f4-fae3a7ac755b",
+    "0e4f289f-207d-45ad-8a63-d1d4abc8be37",
+    "43e5946c-9ce8-4f20-9633-46f7701e8bc8",
+    "74af56ee-0067-4582-bd49-4a0473b29197",
+    "f44d597a-fb9b-49cc-a236-99ffebf3b43d",
+    "618ad075-fcca-49dc-8deb-3956a35563d4",
+    "11b7aee2-c78b-4c07-bb9f-92ca120b5974",
+    "de99a705-2695-4857-953e-c4d63681937b",
+    "48fe64df-3a0a-450c-a20e-3c82e9a0c149",
+    "8191ab7b-5676-4e48-80af-b76cbc1f21bc"
+  ]
+}

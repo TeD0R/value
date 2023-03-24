@@ -1,0 +1,74 @@
+{
+  "sections": {
+    "fbff2b89-3fe5-49da-99a6-d9b8fc5dfff7": {
+      "type": "breadcrumb",
+      "settings": {
+        "alignment_breadcrumb": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "blocks": {
+        "59b05495-a07e-4a35-a8b2-7f4343c18c0e": {
+          "type": "recent_post",
+          "settings": {
+            "show_block": true,
+            "heading": "Recent publications",
+            "number": 3,
+            "show_date": "true"
+          }
+        },
+        "5a37bfe5-8be5-4078-ba68-152a46898f8d": {
+          "type": "category",
+          "settings": {
+            "show_block": true,
+            "heading": "Blog Categories",
+            "menu_blog": "blog-categories"
+          }
+        },
+        "2fc29e48-d715-4fbb-98ef-97405268bf85": {
+          "type": "recent-tags",
+          "settings": {
+            "show_block": false,
+            "heading": "Recent Tag",
+            "number": 3
+          }
+        }
+      },
+      "block_order": [
+        "59b05495-a07e-4a35-a8b2-7f4343c18c0e",
+        "5a37bfe5-8be5-4078-ba68-152a46898f8d",
+        "2fc29e48-d715-4fbb-98ef-97405268bf85"
+      ],
+      "custom_css": [],
+      "settings": {
+        "mod_class": "",
+        "page_title": "Cannabis blog",
+        "description": "For those of you who are relatively new to cannabis, the number of cannabinoids that can be derived from the hemp plant is roughly over 400.",
+        "alignment_title": "left",
+        "layout": "grid",
+        "number_article": 8,
+        "show_image": true,
+        "image_height": "adapt",
+        "heading_size": "h4",
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": true,
+        "alignment_content": "left",
+        "alignment__vertical": "start",
+        "show_sidebar": true,
+        "show_collapse": true,
+        "enable_sticky": true,
+        "sidebar_position": "right",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    }
+  },
+  "order": [
+    "fbff2b89-3fe5-49da-99a6-d9b8fc5dfff7",
+    "main"
+  ]
+}
