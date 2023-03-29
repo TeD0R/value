@@ -62,8 +62,8 @@
         "show_collapse": true,
         "enable_sticky": true,
         "sidebar_position": "right",
-        "padding_top": 64,
-        "padding_bottom": 64
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     }
   },

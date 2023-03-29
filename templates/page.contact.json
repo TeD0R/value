@@ -70,8 +70,8 @@
         "heading": "We would love to hear from you! You can also contact us via our live chat.",
         "heading_size": "h2",
         "color_scheme": "background-2",
-        "padding_top": 64,
-        "padding_bottom": 64
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "b5d3f204-7491-4056-813a-4e558fd640af": {
@@ -106,6 +106,7 @@
     },
     "efdd8087-69df-4216-82a3-518702753854": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17780904395018__efdd8087-69df-4216-82a3-518702753854-1679571861c358dbe3-0": {
           "type": "heading",
@@ -145,8 +146,8 @@
         "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 32,
-        "padding_bottom": 32
+        "padding_top": 52,
+        "padding_bottom": 52
       }
     }
   },

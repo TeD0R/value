@@ -21,6 +21,26 @@
         "padding_bottom": 18
       }
     },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "show_product_description": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 32,
+        "padding_bottom": 100,
+        "enable_recently_products": false
+      }
+    },
     "90fd90b2-d153-4482-8a4c-ebce3ba15915": {
       "type": "announcement-bar",
       "blocks": {
@@ -41,26 +61,6 @@
         "full_width": false,
         "container": false,
         "mod_class": ""
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 20,
-        "columns_desktop": 4,
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "show_product_description": false,
-        "enable_filtering": true,
-        "filter_type": "horizontal",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 64,
-        "padding_bottom": 64,
-        "enable_recently_products": false
       }
     },
     "8ff5f0a8-d3a4-4b22-91fb-691d80607732": {
@@ -197,8 +197,178 @@
         "border_opacity": 0
       }
     },
+    "660b150d-eb08-4530-895f-3549907f3ffc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17780904198410__660b150d-eb08-4530-895f-3549907f3ffc-16798619333b27938d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>TRULY EXCEPTIONAL VAPING EXPERIENCE<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--17780904198410__660b150d-eb08-4530-895f-3549907f3ffc-16798619333b27938d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At the heart of Jonka lies our culture – a fusion of love for the plant, passion, and innovation. We cherish relationships and our unique spirit is evident in every aspect of our brand, from our premium products to our dedication to our supporters.<\/p>"
+          }
+        },
+        "template--17780904198410__660b150d-eb08-4530-895f-3549907f3ffc-16798619333b27938d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904198410__660b150d-eb08-4530-895f-3549907f3ffc-16798619333b27938d-0",
+        "template--17780904198410__660b150d-eb08-4530-895f-3549907f3ffc-16798619333b27938d-1",
+        "template--17780904198410__660b150d-eb08-4530-895f-3549907f3ffc-16798619333b27938d-2"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 32
+      }
+    },
+    "e54f7b11-72b6-498f-bb5e-e9745005e41f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17780904198410__e54f7b11-72b6-498f-bb5e-e9745005e41f-16798621685151a2ed-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "IS HHC LEGAL?",
+            "icon": "none",
+            "row_content": "<p>HHC, or Hexahydrocannabinol, is a newly emerging alternative cannabinoid that has recently gained popularity among consumers. HHC is similar to Delta-9 THC in its psychoactive effects, but it is legally derived from hemp and not classified as a controlled substance. It is often compared to Delta-8 THC, but with a more potent and longer-lasting effect. HHC interacts with the endocannabinoid system in the body, producing a range of effects such as relaxation, mood elevation, and pain relief.<\/p><p>Jonka's HHC products are crafted with the highest quality ingredients and undergo rigorous testing to ensure the best possible experience for our customers.<\/p>",
+            "page": ""
+          }
+        },
+        "14c040ff-d05b-463c-bb03-92251144ff77": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "IS HHC LEGAL?",
+            "icon": "none",
+            "row_content": "<p>HHC, or Hexahydrocannabinol, is a newly emerging alternative cannabinoid that has recently gained popularity among consumers. HHC is similar to Delta-9 THC in its psychoactive effects, but it is legally derived from hemp and not classified as a controlled substance. It is often compared to Delta-8 THC, but with a more potent and longer-lasting effect. HHC interacts with the endocannabinoid system in the body, producing a range of effects such as relaxation, mood elevation, and pain relief.<\/p><p>Jonka's HHC products are crafted with the highest quality ingredients and undergo rigorous testing to ensure the best possible experience for our customers.<\/p>",
+            "page": ""
+          }
+        },
+        "f4a45193-7b12-4cc6-85b9-e8d76e99ee7d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "IS HHC LEGAL?",
+            "icon": "none",
+            "row_content": "<p>HHC, or Hexahydrocannabinol, is a newly emerging alternative cannabinoid that has recently gained popularity among consumers. HHC is similar to Delta-9 THC in its psychoactive effects, but it is legally derived from hemp and not classified as a controlled substance. It is often compared to Delta-8 THC, but with a more potent and longer-lasting effect. HHC interacts with the endocannabinoid system in the body, producing a range of effects such as relaxation, mood elevation, and pain relief.<\/p><p>Jonka's HHC products are crafted with the highest quality ingredients and undergo rigorous testing to ensure the best possible experience for our customers.<\/p>",
+            "page": ""
+          }
+        },
+        "12549059-f4d3-4b92-9de2-4807cfbff480": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "IS HHC LEGAL?",
+            "icon": "none",
+            "row_content": "<p>HHC, or Hexahydrocannabinol, is a newly emerging alternative cannabinoid that has recently gained popularity among consumers. HHC is similar to Delta-9 THC in its psychoactive effects, but it is legally derived from hemp and not classified as a controlled substance. It is often compared to Delta-8 THC, but with a more potent and longer-lasting effect. HHC interacts with the endocannabinoid system in the body, producing a range of effects such as relaxation, mood elevation, and pain relief.<\/p><p>Jonka's HHC products are crafted with the highest quality ingredients and undergo rigorous testing to ensure the best possible experience for our customers.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904198410__e54f7b11-72b6-498f-bb5e-e9745005e41f-16798621685151a2ed-0",
+        "14c040ff-d05b-463c-bb03-92251144ff77",
+        "f4a45193-7b12-4cc6-85b9-e8d76e99ee7d",
+        "12549059-f4d3-4b92-9de2-4807cfbff480"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "caption": "JONKA",
+        "heading": "FAQ",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "content_alignment": "left",
+        "layout": "section",
+        "color_scheme": "background-2",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "526c6aa7-3a0a-47e0-bfde-deb079a0da5d": {
+      "type": "image-with-text-grid",
+      "blocks": {
+        "template--17780904198410__526c6aa7-3a0a-47e0-bfde-deb079a0da5d-1679862098ce661cd2-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elsa-olofsson-cLh4891jSV0-unsplash.jpg",
+            "title": "HHC ARTICLES",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "template--17780904198410__526c6aa7-3a0a-47e0-bfde-deb079a0da5d-1679862098ce661cd2-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elsa-olofsson-roMuYSvzr8w-unsplash.jpg",
+            "title": "CANNABIS ARTICLES",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "792dd584-4f97-41a6-b2e6-e4aefd6f265e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8471940.jpg",
+            "title": "CBD ARTICLES",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17780904198410__526c6aa7-3a0a-47e0-bfde-deb079a0da5d-1679862098ce661cd2-0",
+        "template--17780904198410__526c6aa7-3a0a-47e0-bfde-deb079a0da5d-1679862098ce661cd2-1",
+        "792dd584-4f97-41a6-b2e6-e4aefd6f265e"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "hxl",
+        "layout": "grid",
+        "item_ratio": "169",
+        "columns_desktop": 3,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "border_top_thickness": 0,
+        "border_right_thickness": 0,
+        "border_bottom_thickness": 0,
+        "border_left_thickness": 0,
+        "border_opacity": 0
+      }
+    },
     "bf12503f-9a49-4184-8fff-a48048cedcd4": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--17780904198410__bf12503f-9a49-4184-8fff-a48048cedcd4-1679657075fce1d317-0": {
           "type": "heading",
@@ -230,14 +400,15 @@
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_top": 64,
+        "padding_bottom": 32,
         "border_thickness": 0,
         "border_opacity": 0
       }
     },
     "039c66ff-2167-4bcf-830e-0f40a8e05ad4": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "21b51345-2b4f-45ff-8082-c309fc978eab": {
           "type": "heading",
@@ -269,7 +440,7 @@
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
+        "padding_top": 32,
         "padding_bottom": 100,
         "border_thickness": 0,
         "border_opacity": 0
@@ -279,9 +450,12 @@
   "order": [
     "banner",
     "cde2e82e-9ee6-4ecc-91f6-a4cf4a607b02",
-    "90fd90b2-d153-4482-8a4c-ebce3ba15915",
     "product-grid",
+    "90fd90b2-d153-4482-8a4c-ebce3ba15915",
     "8ff5f0a8-d3a4-4b22-91fb-691d80607732",
+    "660b150d-eb08-4530-895f-3549907f3ffc",
+    "e54f7b11-72b6-498f-bb5e-e9745005e41f",
+    "526c6aa7-3a0a-47e0-bfde-deb079a0da5d",
     "bf12503f-9a49-4184-8fff-a48048cedcd4",
     "039c66ff-2167-4bcf-830e-0f40a8e05ad4"
   ]

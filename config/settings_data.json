@@ -23,7 +23,7 @@
     "newsletter_popup_desc": "Sign up to receive discount codes, notifications of new products, events and cannabis news",
     "newsletter_popup_note": "I don't like discounts",
     "select_button_submit": "default",
-    "favicon": "shopify:\/\/shop_images\/STUDIO_PC_2078-15_ec927f74-f3fa-41db-a228-185530237b67.png",
+    "favicon": "shopify:\/\/shop_images\/logof.png",
     "show_backtotop": false,
     "type_header_font": "space_mono_n7",
     "heading_scale": 100,
@@ -100,7 +100,7 @@
     "social_twitter_link": "https:\/\/twitter.com\/shopify",
     "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
     "social_pinterest_link": "#",
-    "social_instagram_link": "",
+    "social_instagram_link": "https:\/\/instagram.com\/jonka420",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -522,8 +522,8 @@
           "menu": "main-menu",
           "menu_type_desktop": "mega",
           "enable_sticky_header": true,
-          "padding_top": 20,
-          "padding_bottom": 20,
+          "padding_top": 24,
+          "padding_bottom": 24,
           "border_thickness": 0,
           "border_opacity": 100
         }
@@ -586,7 +586,7 @@
         ],
         "custom_css": [],
         "settings": {
-          "heading": "JONKA JONKA JONKA",
+          "heading": "THANKS FOR BLAZING IT WITH US",
           "heading_size": "h2",
           "color_scheme": "background-1",
           "enable_country_selector": true,

@@ -106,7 +106,7 @@
           }
         </style>
         <div class="slideshow__slide grid__item grid--1-col slider__slide" id="Slide-{{ section.id }}-{{ forloop.index }}" {{ block.shopify_attributes }} role="group" aria-roledescription="{{ 'sections.slideshow.slide' | t }}" aria-label="{{ forloop.index }} {{ 'general.slider.of' | t }} {{ forloop.length }}" tabindex="-1">
-          <div class="slideshow__media banner__media media{% if block.settings.image == blank %} placeholder{% endif %}">
+          <div class="slideshow__media banner__media media{% if block.settings.image == blank %} placeholder{% endif %}"  data-aos="fade-in">
             {%- if block.settings.image -%}
               <img srcset="{%- if block.settings.image.width >= 375 -%}{{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
                 {%- if block.settings.image.width >= 550 -%}{{ block.settings.image | image_url: width: 550 }} 550w,{%- endif -%}
@@ -124,15 +124,15 @@
           </div>
           <div class="slideshow__text-wrapper banner__content banner__content--{{ block.settings.box_align }} page-width{% if block.settings.show_text_box == false %} banner--desktop-transparent{% endif %}">
             <div class="slideshow__text banner__box content-container content-container--full-width-mobile color-{{ block.settings.color_scheme }} gradient slideshow__text--{{ block.settings.text_alignment }} slideshow__text-mobile--{{ block.settings.text_alignment_mobile }}">{%- if block.settings.heading != blank -%}
-                <h2 class="banner__heading {{ block.settings.heading_size }}"><span>{{ block.settings.heading | escape }}</span></h2>
+                <h2  data-aos="fade-in" data-aos-duration="150" class="banner__heading {{ block.settings.heading_size }}"><span>{{ block.settings.heading | escape }}</span></h2>
               {%- endif -%}
               {%- if block.settings.subheading != blank -%}
                 <div class="banner__text subtitle" {{ block.shopify_attributes }}>
-                  <p>{{ block.settings.subheading | escape }}</p>
+                  <p data-aos="fade-in" data-aos-duration="200" data-aos-delay="50">{{ block.settings.subheading | escape }}</p>
                 </div>
               {%- endif -%}
               {%- if block.settings.button_label != blank or block.settings.button_label2 != blank -%}
-                <div class="banner__buttons">
+                <div class="banner__buttons" data-aos="fade-in" data-aos-duration="200" data-aos-delay="100">
                   {%- if block.settings.button_label != blank -%}
                     <a {% if block.settings.link %}href="{{ block.settings.link }}" {% else %} role="link"aria-disabled="true"{% endif %} class="{% if block.settings.link_style == 'link' %}link hightlight-link animate-arrow link--text{% elsif block.settings.link_style == 'solid' %}button{% else %}button button--secondary{% endif %}">{{ block.settings.button_label | escape }}
                       {% if block.settings.link_style == 'link' %}

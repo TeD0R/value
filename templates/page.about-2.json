@@ -313,14 +313,14 @@
         "template--17780904296714__6aa5de2e-ca03-4298-89b2-095b675981c1-1679433361349aa3af-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Born from Passion, Driven by Perfection<\/p>",
+            "heading": "<p>Jonka: Born from Passion, Driven by Perfection.<br\/><\/p>",
             "heading_size": "h2"
           }
         },
         "template--17780904296714__6aa5de2e-ca03-4298-89b2-095b675981c1-1679433361349aa3af-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At the heart of Jonka lies our culture – a fusion of love for the plant, passion, and innovation. We cherish relationships and our unique spirit is evident in every aspect of our brand, from our premium products to our dedication to our supporters.<\/p>"
+            "text": "<p>At the heart of Jonka lies a culture that is fueled by our love for the hemp plant, passion, and innovation. We are a young and vibrant community that welcomes anyone who shares our love for CBD and its health benefits. Our mission is to make high-quality vape products and minor cannabinoids accessible to everyone in Bulgaria.<br\/>We source our products from a trusted US partner and use only natural ingredients to ensure the best possible experience for our customers. All of our products are legal and contain under 0.2% THC.<br\/><br\/><\/p>"
           }
         }
       },
@@ -344,14 +344,14 @@
         "template--17780904296714__150c2710-fb37-4171-9359-f6bd1c46809c-16794335336bb44dd2-0": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Our Values:",
             "heading_size": "h2"
           }
         },
         "template--17780904296714__150c2710-fb37-4171-9359-f6bd1c46809c-16794335336bb44dd2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Jonka has teamed up with some of the most distinguished cannabis industry operators to deliver the highest tested HHC on the market, boasting a remarkable 74% 9R HHC.(*blog9Riso,CoA*)<\/p><p>While potency is crucial, we also strongly believe in the right to enjoy lead-free, toxin-free smoking experiences. That's why we've chosen the cleanest tested cartridges on the market, ensuring unparalleled safety and quality.<br\/>(link to CoA, see our CoA page)<\/p>",
+            "text": "<ul><li>Quality: We are committed to offering only the highest quality products that meet our strict standards for purity, potency, and safety.<\/li><li>Accessibility: We believe that everyone should have access to the health benefits of CBD, regardless of their financial situation or background. That's why we offer affordable prices and support those who need it most.(read more)<\/li><li>Innovation: We are always looking for new and innovative ways to improve our products and services to better serve our customers.<\/li><li>Community: We believe in building a strong and supportive community of stoners who share our passion for CBD.<\/li><li>Responsibility: We operate in full compliance with all laws and regulations and promote responsible use of hemp to ensure the safety and wellbeing of our customers. All of our products contain 0% Delta-9 THC.<\/li><\/ul>",
             "text_style": "body"
           }
         }

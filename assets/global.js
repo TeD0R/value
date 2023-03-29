@@ -1,3 +1,5 @@
+AOS.init();
+
 function getFocusableElements(container) {
   return Array.from(
     container.querySelectorAll(

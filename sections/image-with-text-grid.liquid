@@ -28,7 +28,7 @@
   endif
 -%}
 
-<div class="image-with-text image-with-text-grid {% if section.settings.title == blank %} no-heading{% endif %}">
+<div data-aos="fade-in" data-aos-duration="200" data-aos-anchor-placement="center-bottom" class="image-with-text image-with-text-grid {% if section.settings.title == blank %} no-heading{% endif %}">
   <div class="{% if section.settings.layout == 'grid' %} page-width{% endif %} section-{{ section.id }}-padding isolate">
     {%- unless section.settings.title == blank -%}
       <div class="title-wrapper title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
